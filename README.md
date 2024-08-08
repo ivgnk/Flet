@@ -31,13 +31,27 @@ https://github.com/TomerGibor/Final-Project-OCR - An algorithm that detects text
 https://github.com/jspw/Auto-Flutter - python package to create structured base flutter projects                     
 
 ## 📝 Papers
+2024. Flet: удобный фреймворк для создания приложений https://blog.skillfactory.ru/flet-freymvork-dlya-sozdaniya-prilozheniy/
+https://github.com/kalexal-kaa/zodiac-flet/
+ 
 2024. [Как сделать доступ в личный кабинет с помощью Flet](https://habr.com/ru/companies/exolve/articles/831142)                  
-2022. [Flutter на Python](https://habr.com/ru/articles/677734/)                       
+2022. [Flutter на Python](https://habr.com/ru/articles/677734/)
 
 
 
 
-## Theory
+
+
+## 🎩 Theory                        
+### Wiki                
+#### RUS              
+https://ru.wikipedia.org/wiki/Трёхуровневая_архитектура                       
+https://ru.wikipedia.org/wiki/Model-View-Controller                          
+https://ru.wikipedia.org/wiki/Model-View-ViewModel               
+
+#### ENG               
+
 ### Papers 
+2024 [Model-View-Controller (MVC) in Python Web Apps: Explained With Lego](https://realpython.com/lego-model-view-controller-python/)                      
 2012 [Реализация паттерна MVC для PyQt](https://habr.com/ru/articles/139454/)                 
 
