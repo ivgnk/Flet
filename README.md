@@ -2,6 +2,8 @@ Various tasks with Flet
 
 # 🌋 Flet                 
 **https://flet.dev/**                 
+⭐⭐ **https://github.com/flet-dev/awesome-flet** - list that curates the best Flet libraries, tools, tutorials, articles and more                               
+
 https://flet.dev/docs/               
 https://flet.dev/gallery/              
 https://flet.dev/docs/tutorials                    
