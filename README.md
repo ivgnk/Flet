@@ -45,11 +45,14 @@ https://github.com/kalexal-kaa/zodiac-flet/
 ## 🎩 Theory                        
 ### Wiki                
 #### RUS              
+https://ru.wikipedia.org/wiki/Категория:Архитектура_программного_обеспечения                 
 https://ru.wikipedia.org/wiki/Трёхуровневая_архитектура                       
 https://ru.wikipedia.org/wiki/Model-View-Controller                          
-https://ru.wikipedia.org/wiki/Model-View-ViewModel               
+https://ru.wikipedia.org/wiki/Model-View-ViewModel                           
+https://ru.wikipedia.org/wiki/Шаблон_проектирования               
 
-#### ENG               
+#### ENG              
+https://en.wikipedia.org/wiki/Category:Software_architecture                
 
 ### Papers 
 2024 [Model-View-Controller (MVC) in Python Web Apps: Explained With Lego](https://realpython.com/lego-model-view-controller-python/)                      
