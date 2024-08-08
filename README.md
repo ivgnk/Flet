@@ -1,7 +1,7 @@
 Various tasks with Flet                  
 
 # 🌋 Flet                 
-**https://flet.dev/**                 
+⭐⭐⭐ **https://flet.dev/**                 
 ⭐⭐ **https://github.com/flet-dev/awesome-flet** - list that curates the best Flet libraries, tools, tutorials, articles and more                               
 
 https://flet.dev/docs/               
@@ -42,7 +42,7 @@ https://github.com/kalexal-kaa/zodiac-flet/
 
 
 
-## 🎩 Theory                        
+## 🎩 Theory & Practice                                  
 ### Wiki                
 #### RUS              
 https://ru.wikipedia.org/wiki/Категория:Архитектура_программного_обеспечения                 
@@ -57,6 +57,22 @@ https://ru.wikipedia.org/wiki/Model-View-ViewModel
 https://en.wikipedia.org/wiki/Category:Software_architecture                
 
 ### Papers 
+#### RUS              
+Б/Д [**Паттерн MVC на примере Cапера**](https://tech-geek.ru/mvc-pattern-python/)                       
+2017 [MVC pattern in Python: Introduction and BasicModel](https://www.giacomodebidda.com/posts/mvc-pattern-in-python-introduction-and-basicmodel/)                 
+
+
+#### ENG                                  
+https://ya.ru/search/?text=пример+АРХИТЕКТУРЫ+MVC+на+python                      
 2024 [Model-View-Controller (MVC) in Python Web Apps: Explained With Lego](https://realpython.com/lego-model-view-controller-python/)                      
+
 2012 [Реализация паттерна MVC для PyQt](https://habr.com/ru/articles/139454/)                 
 
+### Practice              
+**https://github.com/topics/mvc?l=python**
+https://github.com/topics/mvc                
+
+https://github.com/topics/mvc-in-python
+https://github.com/topics/python-mvc                       
+https://github.com/topics/pyqt5-mvc                
+https://github.com/williamniemiec/MVC-in-Python - MVC Python framework                 
