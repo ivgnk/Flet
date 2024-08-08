@@ -46,10 +46,12 @@ https://github.com/kalexal-kaa/zodiac-flet/
 ### Wiki                
 #### RUS              
 https://ru.wikipedia.org/wiki/Категория:Архитектура_программного_обеспечения                 
+https://ru.wikipedia.org/wiki/Многоуровневая_архитектура                      
 https://ru.wikipedia.org/wiki/Трёхуровневая_архитектура                       
+https://ru.wikipedia.org/wiki/Шаблон_проектирования               
+
 https://ru.wikipedia.org/wiki/Model-View-Controller                          
 https://ru.wikipedia.org/wiki/Model-View-ViewModel                           
-https://ru.wikipedia.org/wiki/Шаблон_проектирования               
 
 #### ENG              
 https://en.wikipedia.org/wiki/Category:Software_architecture                
