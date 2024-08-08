@@ -15,7 +15,9 @@ https://github.com/flet-dev/examples
 
 
 ## 📝 Papers
-25.07.2024. [Как сделать доступ в личный кабинет с помощью Flet](https://habr.com/ru/companies/exolve/articles/831142)                  
+2024. [Как сделать доступ в личный кабинет с помощью Flet](https://habr.com/ru/companies/exolve/articles/831142)                  
+2022. [Flutter на Python](https://habr.com/ru/articles/677734/)                       
+
 
 
 
