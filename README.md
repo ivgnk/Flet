@@ -30,6 +30,15 @@ https://github.com/jukebox-io/jukebox-deprecated - Music Recommendation System m
 https://github.com/TomerGibor/Final-Project-OCR - An algorithm that detects text in an image using ML and computer vision. The algorithm communicates with an app written in Flutter that serves as an easy-to-use GUI                       
 https://github.com/jspw/Auto-Flutter - python package to create structured base flutter projects                     
 
+### Practice MVC            
+**https://github.com/topics/mvc?l=python**                     
+https://github.com/topics/mvc                
+
+https://github.com/topics/mvc-in-python                     
+https://github.com/topics/python-mvc                       
+https://github.com/topics/pyqt5-mvc                
+https://github.com/williamniemiec/MVC-in-Python - MVC Python framework                 
+
 ## 📝 Papers
 2024. Flet: удобный фреймворк для создания приложений https://blog.skillfactory.ru/flet-freymvork-dlya-sozdaniya-prilozheniy/
 https://github.com/kalexal-kaa/zodiac-flet/
@@ -67,12 +76,3 @@ https://ya.ru/search/?text=пример+АРХИТЕКТУРЫ+MVC+на+python
 2024 [Model-View-Controller (MVC) in Python Web Apps: Explained With Lego](https://realpython.com/lego-model-view-controller-python/)                      
 
 2012 [Реализация паттерна MVC для PyQt](https://habr.com/ru/articles/139454/)                 
-
-### Practice              
-**https://github.com/topics/mvc?l=python**
-https://github.com/topics/mvc                
-
-https://github.com/topics/mvc-in-python
-https://github.com/topics/python-mvc                       
-https://github.com/topics/pyqt5-mvc                
-https://github.com/williamniemiec/MVC-in-Python - MVC Python framework                 
