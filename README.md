@@ -22,9 +22,9 @@ https://github.com/flet-dev/examples
 
 **https://github.com/HeliosX7/image-captioning-app** - Deployed image captioning ML model using Flask and access via Flutter app                  
 
-⭐ **https://github.com/hevirbek/my-flet** -  Tutorials 
-⭐ **https://github.com/moonlitgrace/instagram-flet-py** - UI clone of Instagram developed using the Flet framework and Python                 
-https://github.com/jukebox-io/jukebox-deprecated - Music Recommendation System made using Flutter and backed by FastAPI                
+⭐ **https://github.com/hevirbek/my-flet** -  Tutorials                           
+⭐ **https://github.com/moonlitgrace/instagram-flet-py** - UI clone of Instagram developed using the Flet framework and Python                                  
+https://github.com/jukebox-io/jukebox-deprecated - Music Recommendation System made using Flutter and backed by FastAPI                   
 https://github.com/TomerGibor/Final-Project-OCR - An algorithm that detects text in an image using ML and computer vision. The algorithm communicates with an app written in Flutter that serves as an easy-to-use GUI                       
 https://github.com/jspw/Auto-Flutter - python package to create structured base flutter projects                     
 
